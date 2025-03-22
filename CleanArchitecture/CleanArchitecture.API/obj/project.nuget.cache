@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "LOarSmgBYqlfS8Gxb9cFF6DWK2h0NwhhDAN8Z11B0fr7RkRhyFdB1Mieslm/5hSnDQDBCIWlaIPDascumNovrA==",
+  "dgSpecHash": "PS9TBvNAD5oeU/cgnatj7EHJAh09Aq3ITltiEGeHVbTAG005BdS0/wil+8As9VtusnvRA3p0FVBZ27NBBLkTXw==",
   "success": true,
   "projectFilePath": "/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/CleanArchitecture.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/andre/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/andre/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/andre/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/andre/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/andre/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/andre/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/andre/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
