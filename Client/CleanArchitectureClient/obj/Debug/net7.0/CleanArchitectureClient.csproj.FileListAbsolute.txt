@@ -1,0 +1,17 @@
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/bin/Debug/net7.0/CleanArchitectureClient
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/bin/Debug/net7.0/CleanArchitectureClient.deps.json
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/bin/Debug/net7.0/CleanArchitectureClient.runtimeconfig.json
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/bin/Debug/net7.0/CleanArchitectureClient.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/bin/Debug/net7.0/CleanArchitectureClient.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.csproj.AssemblyReference.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.AssemblyInfoInputs.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.AssemblyInfo.cs
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.csproj.CoreCompileInputs.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.csproj.CopyComplete
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/refint/CleanArchitectureClient.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/CleanArchitectureClient.genruntimeconfig.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/Client/CleanArchitectureClient/obj/Debug/net7.0/ref/CleanArchitectureClient.dll
