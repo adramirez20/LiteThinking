@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using CleanArchitecture.Application.UseCases;
 using CleanArchitecture.Domain.Interfaces;
+using CleanArchitecture.Domain.Entities;
 
 namespace CleanArchitecture.API.Controllers
 {
@@ -18,12 +19,12 @@ namespace CleanArchitecture.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateUser([FromBody] dynamic request)
+        public async Task<IActionResult> CreateUser(User user)
         {
             try
             {
-                var user = await _createUserUseCase.Execute(request.name.ToString(), request.email.ToString());
-                return CreatedAtAction(nameof(GetUsers), new { id = user.Id }, user);
+                var userResult = await _createUserUseCase.Execute(user.Name.ToString(), user.Email.ToString());
+                return CreatedAtAction(nameof(GetUsers), new { id = userResult.Id }, userResult);
             }
             catch (Exception ex)
             {

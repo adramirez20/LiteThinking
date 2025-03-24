@@ -1,0 +1,15 @@
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.deps.json
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfo.cs
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CopyComplete
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/refint/CleanArchitecture.Application.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net7.0/ref/CleanArchitecture.Application.dll

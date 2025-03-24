@@ -1,0 +1,12 @@
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.deps.json
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.AssemblyReference.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/refint/CleanArchitecture.Domain.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net7.0/ref/CleanArchitecture.Domain.dll
