@@ -7,6 +7,9 @@ namespace CleanArchitecture.API.Controllers
 {
     [ApiController]
     [Route("api/users")]
+    /// <summary>
+    /// Controlador para gestionar usuarios.
+    /// </summary>
     public class UserController : ControllerBase
     {
         private readonly CreateUserUseCase _createUserUseCase;
@@ -19,6 +22,11 @@ namespace CleanArchitecture.API.Controllers
         }
 
         [HttpPost]
+         /// <summary>
+        /// Crea un nuevo usuario.
+        /// </summary>
+        /// <param name="request">Datos del usuario (nombre y email).</param>
+        /// <returns>Usuario creado.</returns>
         public async Task<IActionResult> CreateUser(User user)
         {
             try
@@ -33,6 +41,9 @@ namespace CleanArchitecture.API.Controllers
         }
 
         [HttpGet]
+        /// <summary>
+        /// Obtiene todos los usuarios registrados.
+        /// </summary>
         public async Task<IActionResult> GetUsers()
         {
             var users = await _userRepository.GetAll();

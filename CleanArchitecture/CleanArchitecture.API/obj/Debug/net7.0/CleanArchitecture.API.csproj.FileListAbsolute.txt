@@ -5,6 +5,7 @@
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/bin/Debug/net7.0/CleanArchitecture.API.runtimeconfig.json
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/bin/Debug/net7.0/CleanArchitecture.API.dll
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/bin/Debug/net7.0/CleanArchitecture.API.pdb
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/bin/Debug/net7.0/CleanArchitecture.API.xml
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
@@ -34,6 +35,7 @@
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/obj/Debug/net7.0/CleanArchitecture.API.csproj.CopyComplete
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/obj/Debug/net7.0/CleanArchitecture.API.dll
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/obj/Debug/net7.0/refint/CleanArchitecture.API.dll
+/Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/obj/Debug/net7.0/CleanArchitecture.API.xml
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/obj/Debug/net7.0/CleanArchitecture.API.pdb
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/obj/Debug/net7.0/CleanArchitecture.API.genruntimeconfig.cache
 /Users/andre/Documents/LityeThinking/LiteThinking/CleanArchitecture/CleanArchitecture.API/obj/Debug/net7.0/ref/CleanArchitecture.API.dll

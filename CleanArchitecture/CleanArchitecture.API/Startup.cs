@@ -6,6 +6,8 @@ using CleanArchitecture.Domain.Interfaces;
 using CleanArchitecture.Infrastructure.Persistence;
 using CleanArchitecture.Application.UseCases;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
+
 
 namespace CleanArchitecture.API
 {
@@ -30,6 +32,11 @@ namespace CleanArchitecture.API
                         Url = new Uri("https://github.com/tu-repositorio")
                     }
                 });
+
+                // 📝 Habilitar comentarios XML en Swagger
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                c.IncludeXmlComments(xmlPath);
             });
             // Inyección de dependencias
             services.AddSingleton<IUserRepository, UserRepository>();
@@ -50,6 +57,7 @@ namespace CleanArchitecture.API
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Clean Architecture API v1");
                 c.RoutePrefix = string.Empty; // Para acceder en la raíz (http://localhost:5000/)
             });
+            
 
             app.UseRouting();
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
