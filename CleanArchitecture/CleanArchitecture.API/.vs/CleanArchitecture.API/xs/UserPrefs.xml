@@ -9,7 +9,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CleanArchitecture.API" expanded="True" />
+          <Node name="CleanArchitecture.API" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
